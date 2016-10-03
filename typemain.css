@@ -1,0 +1,33 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background-color: black;
+}
+
+.bg {
+    margin: 0 auto;
+}
+
+.top {
+    position: fixed;
+    width: 50%;
+}
+
+.gif {
+    position: fixed;
+    width: 50%;
+}
+
+.topreplace {
+    position: fixed;
+    width: 50%;
+}
+
+a {
+    position: fixed;
+    top: 85%;
+    left: 35%;
+}
+
