@@ -17,15 +17,9 @@ body {
 
 .gif {
     position: fixed;
-    padding: 0% 0% 0% 0%;
 }
 
 
-
-.center {
-    display: block;
-    margin: auto 0;
-}
 
 .topreplace {
     position: fixed;
