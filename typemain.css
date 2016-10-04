@@ -18,8 +18,11 @@ body {
 .gif {
     position: fixed;
     width: 50%;
+}
+
+.center {
     display: block;
-    margin: 0 auto;
+    margin: auto 0;
 }
 
 .topreplace {
