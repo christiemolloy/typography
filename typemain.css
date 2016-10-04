@@ -20,10 +20,16 @@ body {
     width: 50%;
 }
 
-.center img {
+.blackborder {
+    position: fixed;
+    width: 50%;
+}
+
+
+
+.center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto 0;
 }
 
 .topreplace {
